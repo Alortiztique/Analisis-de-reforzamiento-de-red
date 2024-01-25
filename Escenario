@@ -1,0 +1,15 @@
+Eres un analista de seguridad que trabaja para una organización de redes sociales. La organización experimentó recientemente una importante filtración de datos, que ha puesto en peligro la seguridad de la información personal de sus clientes, como nombres y direcciones. Tu organización quiere implementar prácticas sólidas de refuerzo de la red que puedan llevarse a cabo de forma coherente para evitar ataques y filtraciones en el futuro. 
+
+Después de inspeccionar la red de la organización, descubres cuatro vulnerabilidades importantes. Estas vulnerabilidades son las siguientes:
+
+Los empleados de la organización comparten las contraseñas.
+
+La contraseña del administrador de la base de datos es la predeterminada.
+
+Los firewalls no tienen reglas establecidas para filtrar el tráfico que entra y sale de la red.
+
+No se utiliza la autenticación multifactor (MFA). 
+
+Si no se toman medidas para abordar estas vulnerabilidades, la organización corre el riesgo de experimentar otra filtración de datos u otros ataques en el futuro. 
+
+En esta actividad, redactarás una evaluación de riesgos de seguridad para analizar el incidente y explicar qué métodos se pueden utilizar para proteger aún más la red.
